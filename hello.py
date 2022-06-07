@@ -1,5 +1,5 @@
-def add(x, y):
-    return x + y
+def add(first, second):
+    return first + second
 
 
 if __name__ == "__main__":
